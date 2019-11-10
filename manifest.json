@@ -1,0 +1,15 @@
+{
+    "name": "rt.deutsch.com",
+    "description": "Wrapper für RT-deutsch",
+    "architecture": "all",
+    "title": "RT-deutsch",
+    "hooks": {
+        "RT-deutsch": {
+            "apparmor": "RT-deutsch.apparmor",
+            "desktop":  "RT-deutsch.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=RT-deutsch
+Exec=webapp-container --webappUrlPatterns=https:/deutsch.rt.com/* https:/deutsch.rt.com
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
